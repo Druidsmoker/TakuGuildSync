@@ -1,0 +1,9 @@
+## Interface: 20501
+## Title: Taku Guild Sync
+## Notes: P2P guild sync
+## Author: Taku @Druidsmoker
+## Version: 1.0.1
+## SavedVariables: TakuGuildSyncDBv101
+
+embeds.xml
+Core.lua
