@@ -39,7 +39,7 @@ local DEBUG                         = false -- handle our own broadcast messages
 local DEBUG_TEST_INVALID_DISCOVER   = false -- DEBUG skips sending invalid discovers, except if this is set
 local DEBUG_SELF_DISCOVER           = false -- discover ourself, basically skips discovery
 
-local GLOBAL_COMM_CHANNEL   = "TakuGuildSyncv101" -- change this for major updates that can't coexist (ex: changes to the hash function)
+local GLOBAL_COMM_CHANNEL   = "TGSv101" -- change this for major updates that can't coexist (ex: changes to the hash function)
 local DB_VERSION_NAME       = "TakuGuildSyncDBv101" -- change here + in .toc for major updates on the data structure
 
 local MAX_EVENT_LOG_SIZE            = 200 -- freeze for a few seconds on open but it's not a problem
