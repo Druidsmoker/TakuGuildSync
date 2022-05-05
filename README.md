@@ -1,10 +1,6 @@
 
 # TakuGuildSync
 
-### Video overview
-
-https://www.youtube.com/watch?v=7g59e49z0kM
-
 ### Features
 
 - Synchronized Kill on sight (KOS) list within a guild.
