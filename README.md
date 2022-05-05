@@ -1,6 +1,10 @@
 
 # TakuGuildSync
 
+### Preview
+
+![preview](preview.png)
+
 ### CurseForge link
 
 https://www.curseforge.com/wow/addons/taku-guild-sync
