@@ -1,6 +1,10 @@
 
 # TakuGuildSync
 
+### CurseForge link
+
+https://www.curseforge.com/wow/addons/taku-guild-sync
+
 ### Features
 
 - Synchronized Kill on sight (KOS) list within a guild.
